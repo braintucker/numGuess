@@ -1,0 +1,14 @@
+C:\Users\Brian\Documents\Visual Studio 2017\projects\numGuess\bin\Debug\numGuess.exe.config
+C:\Users\Brian\Documents\Visual Studio 2017\projects\numGuess\bin\Debug\numGuess.exe
+C:\Users\Brian\Documents\Visual Studio 2017\projects\numGuess\bin\Debug\numGuess.pdb
+C:\Users\Brian\Documents\Visual Studio 2017\projects\numGuess\obj\Debug\numGuess.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2017\projects\numGuess\obj\Debug\numGuess.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\Visual Studio 2017\projects\numGuess\obj\Debug\numGuess.exe
+C:\Users\Brian\Documents\Visual Studio 2017\projects\numGuess\obj\Debug\numGuess.pdb
+C:\Users\Brian\Documents\Visual Studio 2017\projects\repo\numGuess\bin\Debug\numGuess.exe.config
+C:\Users\Brian\Documents\Visual Studio 2017\projects\repo\numGuess\obj\Debug\numGuess.exe
+C:\Users\Brian\Documents\Visual Studio 2017\projects\repo\numGuess\obj\Debug\numGuess.pdb
+C:\Users\Brian\Documents\Visual Studio 2017\projects\repo\numGuess\bin\Debug\numGuess.exe
+C:\Users\Brian\Documents\Visual Studio 2017\projects\repo\numGuess\bin\Debug\numGuess.pdb
+C:\Users\Brian\Documents\Visual Studio 2017\projects\repo\numGuess\obj\Debug\numGuess.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2017\projects\repo\numGuess\obj\Debug\numGuess.csproj.CoreCompileInputs.cache
